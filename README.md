@@ -188,8 +188,8 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## Output:
+<img width="413" height="834" alt="image" src="https://github.com/user-attachments/assets/398db7c6-b5ea-449c-a31c-778373f787c0" />
 
-![Screenshot 2024-10-19 111949](https://github.com/user-attachments/assets/5d81c880-a7d5-402a-be7c-809d7e5e5b76)
 
 
 ## Result:
